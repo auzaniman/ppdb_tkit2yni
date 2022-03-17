@@ -1,5 +1,5 @@
 <header class="bg-gradient-dark">
-  <div class="page-header min-vh-100" style="background-image: url('frontend/assets/img/PPDB/2.jpeg');">
+  <div class="page-header min-vh-100" style="background-image: url('frontend/assets/img/PPDB/5.jpg');">
     <span class="mask bg-gradient-dark opacity-9"></span>
     <div class="container">
       <div class="row justify-content-center">
@@ -20,7 +20,7 @@
               <a href="javascript:;"><i class="fab fa-facebook text-lg text-white me-4"></i></a>
               <a href="javascript:;"><i class="fab fa-instagram text-lg text-white me-4"></i></a>
               <a href="javascript:;"><i class="fab fa-twitter text-lg text-white me-4"></i></a>
-              <a href="javascript:;"><i class="fab fa-google-plus text-lg text-white"></i></a>
+              <a href="javascript:;"><i class="fab fa-youtube text-lg text-white"></i></a>
             </div>
           </div>
         </div>
